@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-My research output can be roughly divided into three categories: stochastic differential equations and stochastic partial differential equations (SDE & SPDE), stochastic optimization and stochastic control (SO & SC), dynamical systems on Wasserstein spaces and random dynamical systems (RDS).
+My research output can be roughly divided into three categories: stochastic differential equations and stochastic partial differential equations (SDE & SPDE), stochastic optimization and stochastic control (SO & SC), dynamical systems on Wasserstein spaces and random dynamical systems (DS & RDS).
 
 <!-- _pages/research.md -->
 
