@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-presentation",
           title: "presentation",
-          description: "Course materials, schedules, and resources for classes taught.",
+          description: "talks and seminars by categories in reversed chronological order.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/presentation/";
