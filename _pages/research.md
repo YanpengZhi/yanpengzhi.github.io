@@ -17,6 +17,6 @@ My research output can be roughly divided into three categories: stochastic diff
 
 <div class="publications">
 
-{% bibliography %}
+{% bibliography --query @*[selected=true]* %}
 
 </div>
