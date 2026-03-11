@@ -13,6 +13,6 @@ nav_order: 3
 
 <div class="publications">
 
-{% bibliography --group_by none --query @*[selected=false]* %}
+{% bibliography --query @*[selected=false]* %}
 
 </div>
